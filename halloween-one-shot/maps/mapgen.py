@@ -5,7 +5,7 @@ M=40          # margin
 LEG=390       # legend width
 BG="#f4ecd8"; WALL="#2e2622"; GRID="#ddd0b3"; RED="#8b1e1e"; INK="#3a2f28"; WIN="#7fa7c9"
 
-def floor(fname,title,w,h,rooms,doors,windows,stairs,feats,extra_h=0,notes=()):
+def dm_map(fname,title,w,h,rooms,doors,windows,stairs,feats,extra_h=0,notes=()):
     W=M*2+w*P+LEG; H=M*2+(h+extra_h)*P+40
     X=lambda f:M+f*P; Y=lambda f:M+30+f*P
     o=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="Georgia, serif">',
@@ -106,6 +106,74 @@ def floor(fname,title,w,h,rooms,doors,windows,stairs,feats,extra_h=0,notes=()):
     o.append('</svg>')
     open(os.path.join(OUT,fname),"w").write("\n".join(o).replace(" & "," &amp; "))
 
+
+# ---------------- PLAYER LAYOUTS ----------------
+# Clean reference images for ChatGPT: walls, doors, windows, stairs, and furniture
+# shapes only. No text, grid, room numbers, doll markers, or spoilers (the grave,
+# the ritual circle, the faceless doll). Drawn at the exact footprint, LP px per foot.
+LP=20
+SPOILER_COLORS={"#f7f1e6"}   # the faceless doll marker
+
+def layout_map(fname,w,rooms,doors,windows,stairs,feats):
+    H_ft=max(r[2][3] for r in rooms); W_ft=w
+    W=W_ft*LP; H=H_ft*LP
+    X=lambda f:f*LP; Y=lambda f:f*LP
+    o=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
+       f'<rect width="{W}" height="{H}" fill="{BG}"/>']
+    inside=[r for r in rooms if r[3]!="outside"]
+    for r in rooms:
+        (x0,y0,x1,y1),kind=r[2],r[3]
+        if kind=="outside":
+            o.append(f'<rect x="{X(x0)}" y="{Y(y0)}" width="{(x1-x0)*LP}" height="{(y1-y0)*LP}" fill="#dccfb2" stroke="{WALL}" stroke-width="3"/>')
+        else:
+            fill={"scorch":"#b8a07c"}.get(kind,BG)
+            o.append(f'<rect x="{X(x0)}" y="{Y(y0)}" width="{(x1-x0)*LP}" height="{(y1-y0)*LP}" fill="{fill}" stroke="{WALL}" stroke-width="10"/>')
+    # outer wall drawn inset so it isn't clipped by the image edge
+    bx0=min(r[2][0] for r in inside); by0=min(r[2][1] for r in inside); bx1=max(r[2][2] for r in inside); by1=max(r[2][3] for r in inside)
+    o.append(f'<rect x="{X(bx0)+5}" y="{Y(by0)+5}" width="{(bx1-bx0)*LP-10}" height="{(by1-by0)*LP-10}" fill="none" stroke="{WALL}" stroke-width="10"/>')
+    for (x0,y0,x1,y1,d,label) in stairs:
+        o.append(f'<rect x="{X(x0)}" y="{Y(y0)}" width="{(x1-x0)*LP}" height="{(y1-y0)*LP}" fill="#e2d5b8" stroke="{INK}" stroke-width="3"/>')
+        if d in "ns":
+            for yy in range(int(y0)+1,int(y1)): o.append(f'<line x1="{X(x0)}" y1="{Y(yy)}" x2="{X(x1)}" y2="{Y(yy)}" stroke="{INK}" stroke-width="2"/>')
+        else:
+            for xx in range(int(x0)+1,int(x1)): o.append(f'<line x1="{X(xx)}" y1="{Y(y0)}" x2="{X(xx)}" y2="{Y(y1)}" stroke="{INK}" stroke-width="2"/>')
+    for f in feats:
+        kind=f[0]
+        if kind=="rect":
+            _,x0,y0,x1,y1=f[:5]; col=f[6] if len(f)>6 else "#c8b48f"
+            o.append(f'<rect x="{X(x0)}" y="{Y(y0)}" width="{(x1-x0)*LP}" height="{(y1-y0)*LP}" fill="{col}" stroke="{INK}" stroke-width="2.5"/>')
+        elif kind=="circle":
+            _,cx,cy,r,label,col=f
+            if col in SPOILER_COLORS: continue
+            o.append(f'<circle cx="{X(cx)}" cy="{Y(cy)}" r="{r*LP}" fill="{col}" stroke="{INK}" stroke-width="2.5"/>')
+        # "text", "doll", "ritual", and "grave" are left out on purpose
+    # Pull openings on the outer wall inward so they sit on the inset outer wall.
+    def wall_px(o_,a):
+        if o_=="h": return Y(a)+(5 if a==by0 else -5 if a==by1 else 0)
+        return X(a)+(5 if a==bx0 else -5 if a==bx1 else 0)
+    for (o_,a,b0,b1) in windows:
+        c=wall_px(o_,a)
+        if o_=="h": o.append(f'<rect x="{X(b0)}" y="{c-5}" width="{(b1-b0)*LP}" height="10" fill="{WIN}" stroke="{WALL}" stroke-width="2"/>')
+        else: o.append(f'<rect x="{c-5}" y="{Y(b0)}" width="10" height="{(b1-b0)*LP}" fill="{WIN}" stroke="{WALL}" stroke-width="2"/>')
+    for (o_,a,b0,b1,*rest) in doors:
+        style=rest[0] if rest else "door"
+        dash='stroke-dasharray="10 6"' if style=="boarded" else ""
+        c=wall_px(o_,a)
+        if o_=="h":
+            o.append(f'<rect x="{X(b0)}" y="{c-7}" width="{(b1-b0)*LP}" height="14" fill="{BG}"/>')
+            o.append(f'<line x1="{X(b0)}" y1="{c}" x2="{X(b1)}" y2="{c}" stroke="#7a5a3a" stroke-width="5" {dash}/>')
+        else:
+            o.append(f'<rect x="{c-7}" y="{Y(b0)}" width="14" height="{(b1-b0)*LP}" fill="{BG}"/>')
+            o.append(f'<line x1="{c}" y1="{Y(b0)}" x2="{c}" y2="{Y(b1)}" stroke="#7a5a3a" stroke-width="5" {dash}/>')
+    o.append('</svg>')
+    open(os.path.join(OUT,fname),"w").write("\n".join(o))
+    return fname,W,H
+
+LAYOUTS=[]
+def floor(fname,title,w,h,rooms,doors,windows,stairs,feats,extra_h=0,notes=()):
+    dm_map(fname,title,w,h,rooms,doors,windows,stairs,feats,extra_h,notes)
+    LAYOUTS.append(layout_map(fname.replace(".svg","_layout.svg"),w,rooms,doors,windows,stairs,feats))
+
 # ---------------- MAIN FLOOR ----------------
 floor("house_main_floor.svg","The Maker's House: Main Floor",60,50,
  rooms=[(1,"Front Porch",(10,50,50,58),"outside",(20,54)),(2,"Foyer",(22,20,38,50),"room",(34.5,46)),(3,"Toy Shop",(38,30,60,50),"room",(41.5,37.5)),
@@ -148,4 +216,16 @@ floor("house_basement.svg","The Maker's House: Basement",60,45,
         ("rect",5,40,12,44,"parts rack"),("rect",37,1,58,4,"shelves & barrels"),("rect",50,33,58,43,"kiln",'#9a6b4a'),
         ("grave",38,37,45,43,"grave"),("text",55,31,"coal chute"),("text",48,17,"stairs up to pantry"),("rect",1,1,11,4,"molds"),("circle",8,33,1,"",'#6b4a2e'),("circle",27,27,1,"",'#6b4a2e'),("text",8,36,"post"),("text",27,30,"post")],
  notes=["The grave is under the brick floor,","shown to the party in the first dream.","The coal chute loops to the foyer.","Workshop is 35 x 45 ft."])
+
+# Export each layout to PNG for uploading to ChatGPT (needs Google Chrome).
+import subprocess, shutil
+CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+chrome=CHROME if os.path.exists(CHROME) else shutil.which("google-chrome") or shutil.which("chromium")
+for fname,W,H in LAYOUTS:
+    if not chrome: print("Chrome not found; skipped PNG export for",fname); continue
+    png=os.path.join(OUT,fname.replace(".svg",".png"))
+    subprocess.run([chrome,"--headless","--disable-gpu","--hide-scrollbars","--force-device-scale-factor=1",
+                    f"--window-size={W},{H}",f"--screenshot={png}","file://"+os.path.join(OUT,fname)],
+                   stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
+    print("wrote",os.path.basename(png),f"{W}x{H}")
 print("done")

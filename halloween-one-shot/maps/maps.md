@@ -8,7 +8,19 @@ Three keyed DM maps show the house, drawn on a 5-foot grid:
 
 Open them in any browser. They print cleanly on letter paper in landscape. The main floor map also shows where each of the fifteen dolls starts.
 
-To change a map, edit and rerun `mapgen.py` in this folder.
+### Layout Images for ChatGPT
+
+Each floor also has a clean layout image, made for uploading to ChatGPT with the prompts at the bottom of this file:
+
+| Floor | Image | Footprint | Pixels |
+|---|---|---|---|
+| Main floor | [house_main_floor_layout.png](house_main_floor_layout.png) | 60×58 ft, including the porch | 1200×1160 |
+| Upper floor | [house_upper_floor_layout.png](house_upper_floor_layout.png) | 60×50 ft | 1200×1000 |
+| Basement | [house_basement_layout.png](house_basement_layout.png) | 60×45 ft | 1200×900 |
+
+They show walls, doorways, windows, stairs, and furniture shapes only. There's no text, no grid, no room numbers, and no doll markers. Spoilers are left out too: there's no grave, no ritual circle, and no faceless doll. Each image is drawn at exactly 20 pixels per foot, so a 5-foot square is 100 pixels. That makes the grid easy to line up in Roll20. They also work on their own as plain player maps.
+
+To change a map, edit and rerun `mapgen.py` in this folder. It rewrites the DM maps and the layout images. The PNG export needs Google Chrome installed.
 
 ---
 
@@ -65,23 +77,33 @@ The house is two stories over a basement. The main floor and upper floor are eac
 
 ## ChatGPT Prompts for Player-Facing Floor Maps
 
-The keyed maps above are for you. To give the players something prettier, paste these into ChatGPT. Room names are left off so the maps don't spoil anything.
+The keyed maps above are for you. To give the players something prettier, upload the floor's layout image to ChatGPT, then paste the matching prompt. The layout image keeps the rooms, doors, and furniture where they belong. Room names are left out of the prompts so the maps don't spoil anything.
+
+ChatGPT treats the image as a strong guide, not an exact blueprint. Expect walls to shift by a few feet. When you import the result into Roll20, set the map to the footprint in the table above and line up the grid by eye.
 
 ### Main Floor
 
+*Upload [house_main_floor_layout.png](house_main_floor_layout.png) first, then paste:*
+
 > This map must be rendered in a strict top-down, directly overhead bird's-eye view. The camera is directly above looking straight down, as if the map were a floor plan. Not isometric. Not perspective. Not a three-quarter view. Directly overhead — the viewer is looking straight down at the ground.
 
-**Map size:** 60×60 ft, including a 10 ft deep front porch along the south edge.
+**Map size:** 60×58 ft, including an 8 ft deep front porch along the south edge.
 
-**Terrain:** The main floor of an old wooden toymaker's house, 60 ft wide by 50 ft deep, with a porch across the south side. Dark wooden floorboards throughout. In the center front is a 16 ft wide entry hall with a staircase running north and a tall grandfather clock. To the west is a 22×30 ft sitting room with a stone hearth, a settee, and a wooden cradle. Its walls are scorched black, and the two front windows are smashed, with glass on the floor. To the east is a 22×20 ft toy shop with long shelves of toys, a wooden counter, and a large display window facing south. North of the shop are a small dining room with a table set for two and a narrow pantry with a staircase going down. Across the north side are a study with a desk and bookcase, a narrow back hall, and a kitchen with an iron stove. Warm yellow lamplight in every room. No creatures, no tokens, no grid.
+**Layout:** Use the attached floor plan image as the exact layout. Keep every wall, doorway, window, staircase, and piece of furniture in the same position, size, and proportion. Paint over the plan in the style described below. Don't add, remove, or move any walls or rooms. Don't include any text or labels.
+
+**Terrain:** The main floor of an old wooden toymaker's house, 60 ft wide by 50 ft deep, with a 40 ft wide porch across the south side. Dark wooden floorboards throughout. In the center front is a 16 ft wide entry hall with a staircase running north and a tall grandfather clock. To the west is a 22×30 ft sitting room with a stone hearth, a settee, and a wooden cradle. Its walls are scorched black, and the two front windows are smashed, with glass on the floor. To the east is a 22×20 ft toy shop with long shelves of toys, a wooden counter, and a large display window facing south. North of the shop are a small dining room with a table set for two and a narrow pantry with a staircase going down. Across the north side are a study with a desk and bookcase, a narrow back hall, and a kitchen with an iron stove. Warm yellow lamplight in every room. No creatures, no tokens, no grid.
 
 > Style: painterly and detailed, similar to a professional tabletop RPG battle map. Rendered strictly from directly above — top-down, no perspective, no isometric angle.
 
 ### Upper Floor
 
+*Upload [house_upper_floor_layout.png](house_upper_floor_layout.png) first, then paste:*
+
 > This map must be rendered in a strict top-down, directly overhead bird's-eye view. The camera is directly above looking straight down, as if the map were a floor plan. Not isometric. Not perspective. Not a three-quarter view. Directly overhead — the viewer is looking straight down at the ground.
 
 **Map size:** 60×50 ft.
+
+**Layout:** Use the attached floor plan image as the exact layout. Keep every wall, doorway, window, staircase, and piece of furniture in the same position, size, and proportion. Paint over the plan in the style described below. Don't add, remove, or move any walls or rooms. Don't include any text or labels.
 
 **Terrain:** The upper floor of an old wooden toymaker's house. A 16 ft wide central hall runs north to south, with a staircase opening in the middle and a window seat at the south end. To the northwest is a bedroom with a large bed, a wardrobe, and a tall standing mirror. To the southwest is a painting room with a long table covered in small brushes and paint jars, shelves, and an easel. To the northeast is a child's bedroom with a small bed, a toy chest, and children's drawings pinned to the walls. In the middle of the east side is a washroom with a copper tub. To the southeast is a guest room that has been badly burned: black walls, a charred bed, and a smashed window. Warm lamplight everywhere except the burned room. No creatures, no tokens, no grid.
 
@@ -89,9 +111,13 @@ The keyed maps above are for you. To give the players something prettier, paste 
 
 ### Basement
 
+*Upload [house_basement_layout.png](house_basement_layout.png) first, then paste:*
+
 > This map must be rendered in a strict top-down, directly overhead bird's-eye view. The camera is directly above looking straight down, as if the map were a floor plan. Not isometric. Not perspective. Not a three-quarter view. Directly overhead — the viewer is looking straight down at the ground.
 
 **Map size:** 60×45 ft.
+
+**Layout:** Use the attached floor plan image as the exact layout. Keep every wall, doorway, window, staircase, and piece of furniture in the same position, size, and proportion. Paint over the plan in the style described below. Don't add, remove, or move any walls or rooms. Don't include any text or labels.
 
 **Terrain:** A stone basement under an old house. The western half is a 35×45 ft workshop with a stone floor, a long workbench along the north wall, a wood lathe, a rack of pale porcelain doll arms and legs, a tall wooden drawer cabinet, and open floor in the center. A small room in the northwest corner holds shelves of white plaster molds. On the east side are a root cellar with barrels and shelves, a small hall with a wooden staircase going up, and a kiln room with a brick floor and a large brick kiln. Dim lamplight in the workshop only. The rest is dark. No creatures, no tokens, no grid.
 

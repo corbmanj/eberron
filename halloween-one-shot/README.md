@@ -24,7 +24,7 @@ Thirty years ago, Tobias Marrowick was Wickford's toymaker. Children loved his d
 
 That winter, the grey fever swept through Wickford and killed dozens, many of them children. Tobias's own daughter, Rosie, was one of them.
 
-Tobias found the only way he could to make his dolls truly lifelike. He crept into the churchyard at night and took a single small bone from each of the recently dead, usually a knuckle or a fingertip. He ground each bone to dust in his workshop mortar and worked a pinch into the painted eyes of a doll. The soul of the dead person woke up inside it. The dolls laughed, sang, and walked. He truly believed he was doing good. He wrote about it tenderly in his journal.
+Tobias found a way he could make his dolls truly lifelike. An ancient text led him to experiment with the bodies of the dead. He crept into the churchyard at night and took a single small bone from each of the recently dead, usually a knuckle or a fingertip. Always, the smallest fragment he could. His goal was not to disturb the body, but to help it live on. He ground each bone to dust in his workshop mortar and worked a pinch into the painted eyes of a doll. The soul of the dead person woke up inside it. The dolls laughed, sang, and walked. He truly believed he was doing good. He wrote about it tenderly in his journal.
 
 He made Rosie's doll first, but he could never bring himself to bind her. Her doll is the only one that stayed empty.
 
