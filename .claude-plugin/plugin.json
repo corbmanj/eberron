@@ -1,0 +1,6 @@
+{
+  "name": "eberron",
+  "version": "1.0.0",
+  "description": "The campaign's DM skills (enemy, encounter, read-aloud), packaged so `claude plugin eval` can load them together. Normal Claude Code use reads them from .claude/skills directly.",
+  "skills": "./.claude/skills/"
+}

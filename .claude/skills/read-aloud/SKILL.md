@@ -1,3 +1,9 @@
+---
+name: read-aloud
+description: Write grounded, conversational Read Aloud text for a D&D session, with concrete sensory detail, short present-tense sentences, and no mood words or emotional labels. Use when the user types /read-aloud, asks for boxed text or a scene description to read to players, or whenever read-aloud text is written into a session document.
+argument-hint: "[scene description]"
+---
+
 # Read Aloud Text Generator
 
 When this command is invoked, write one or more Read Aloud text blocks for a D&D 5e session set in a homebrew Eberron campaign. Apply the following rules to every block, without exception.

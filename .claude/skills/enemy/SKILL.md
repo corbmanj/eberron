@@ -1,3 +1,9 @@
+---
+name: enemy
+description: Generate a fully formatted D&D 5e enemy stat block in this campaign's house format (Speed row, separate Actions and Spells sections with a counterspell table, Tactics, and a Loot entry). Use when the user types /enemy, asks for a monster or NPC stat block, or whenever any enemy stat block is written into a session or encounter document.
+argument-hint: "[creature description, role, context, party level]"
+---
+
 # Enemy Generator
 
 When this command is invoked, create a fully formatted D&D 5e enemy stat block for use in a homebrew Eberron campaign. Use the format and rules below exactly.

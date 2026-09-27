@@ -1,5 +1,0 @@
-{
-  "name": "eberron",
-  "version": "0.1.0",
-  "description": "Wrapper so claude plugin eval can test the campaign's DM slash commands (symlinked from .claude/commands)."
-}

@@ -1,3 +1,9 @@
+---
+name: encounter
+description: Build a complete D&D 5e encounter in this campaign's house format, with a summary and monster roster, full stat blocks in the enemy skill's format, and a top-down battle map prompt for ChatGPT. The campaign uses milestone leveling, so it never includes XP. Use when the user types /encounter, asks for a fight or combat encounter, or whenever an encounter is written for a session document.
+argument-hint: "[location] [difficulty] [constraints]"
+---
+
 # Encounter Generator
 
 When invoked, generate a complete D&D 5e encounter including:
@@ -68,7 +74,7 @@ Monster Roster:
 
 ### Stat Blocks
 
-One complete stat block per unique enemy type, using the format from `.claude/commands/enemy.md` exactly. Do not abbreviate. Do not skip sections. If a monster has no spells, omit the Spells section entirely. Every stat block ends with a Loot entry.
+One complete stat block per unique enemy type, using the format from the enemy skill exactly. Read it from `../enemy/SKILL.md`, relative to this skill's folder. Do not abbreviate. Do not skip sections. If a monster has no spells, omit the Spells section entirely. Every stat block ends with a Loot entry.
 
 ---
 
