@@ -1,0 +1,74 @@
+Prompt: can you also provide me wtih Stat blocks for Tsucora Quori, Dreamspawn, & Inspired Assassin (Dream-empowered)?
+
+Response: Here are suitable stat blocks, adapted from official sources and Eberron materials, balanced for a **level 8 party**.
+
+---
+
+### **Tsucora Quori**
+
+*Medium Aberration, Lawful Evil*
+
+**Armor Class:** 17 (natural armor)
+**Hit Points:** 136 (16d8 + 64)
+**Speed:** 40 ft.
+
+**STR** 18 (+4)
+**DEX** 16 (+3)
+**CON** 18 (+4)
+**INT** 15 (+2)
+**WIS** 14 (+2)
+**CHA** 18 (+4)
+
+**Saving Throws:** Dex +6, Wis +5, Cha +7
+**Skills:** Insight +5, Perception +5, Stealth +6
+**Damage Resistances:** Psychic; Bludgeoning, Piercing, Slashing (nonmagical)
+**Condition Immunities:** Charmed, Frightened
+**Senses:** Darkvision 60 ft., Passive Perception 15
+**Languages:** Quori, telepathy 120 ft.
+**Challenge:** 8 (3,900 XP)
+
+---
+
+#### Traits
+
+* **Dream Form.** While in Dal Quor or a dreamscape, the quori has advantage on all saving throws and attack rolls.
+* **Innate Spellcasting (Psionics).** DC 15. At will: *detect thoughts, suggestion*. 3/day: *fear, phantasmal killer*. 1/day: *dominate person*.
+
+---
+
+#### Actions
+
+* **Multiattack.** The quori makes two claw attacks.
+* **Claw.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. Hit: 13 (2d8+4) slashing damage plus 9 (2d8) psychic damage.
+* **Nightmare Touch (Recharge 5–6).** Target makes a DC 15 Wis save or is frightened for 1 minute and takes 18 (4d8) psychic damage at the start of its turn. Save ends at end of turn.
+
+---
+
+### **Dreamspawn**
+
+*(Twisted horrors of the dream realm – can be reskinned aberrations)*
+
+**Use:** **Star Spawn Mangler** or **Gibbering Mouther** from *Mordenkainen’s Tome of Foes* or *MM*, with dreamlike visual flavor (floating eyes, shifting mouths, shadowy bodies).
+
+* Add **Psychic Vulnerability** to psychic-themed attacks.
+* Add **Dream Warp Aura (10 ft.)** – creatures starting turn in aura must succeed on DC 14 Wis save or suffer disadvantage on next attack or save due to hallucinatory visions.
+
+---
+
+### **Inspired Assassin (Dream-Empowered)**
+
+*Medium Humanoid (Human), Lawful Evil*
+
+Base: **Assassin** (MM) with Psionic Enhancements:
+
+* Increase AC to 17 (psychic barrier).
+* Add **Innate Spellcasting (Psionics):** DC 14; at will: *minor illusion*; 3/day: *misty step, suggestion*; 1/day: *greater invisibility*.
+* **Psychic Strike (1/turn).** When hitting with a weapon attack, deal +14 (4d6) psychic damage.
+
+---
+
+Would you like me to:
+
+1. **Format all three into a single printable monster sheet** (VTT & PDF)?
+2. **Expand Dreamspawn into multiple variants (Lurker, Stalker, Abomination)?**
+3. Both?

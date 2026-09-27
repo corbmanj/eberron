@@ -1,0 +1,81 @@
+Prompt: i think i'd like to procedurally generate each room the party walks into. I will have whoever opens the door roll a d12 so I need 12 types of rooms they could encounter
+
+Response: Here’s a **d12 Procedural Dreamscape Room Table** designed for your session. Each room blends **surreal imagery**, **navigation challenges**, and **encounters with the Dreaming Dark**.
+
+---
+
+### **d12 Dreamscape Rooms**
+
+1. **Gravity Well Chamber**
+
+   * Floor and ceiling constantly switch places.
+   * **Hazard:** Dex save DC 14 to avoid falling damage (2d6).
+   * **Encounter:** 1–2 Dreamspawn clinging to the "walls" for ambush.
+
+2. **Infinite Staircase**
+
+   * A spiral staircase looping endlessly. PCs must make an **Investigation DC 15** to find the “real” landing.
+   * **Complication:** On a failure, they lose 1 hour of dream-time (may trigger more Quori patrols).
+
+3. **Mirror Corridor**
+
+   * Hall lined with mirrors that distort reality.
+   * **Puzzle:** Correct sequence of mirrors must be touched (Arcana DC 16).
+   * **Trap:** Wrong mirror releases a psychic echo (2d10 psychic damage).
+
+4. **Shifting Garden**
+
+   * Fragments of Sah’reth’s memories bloom and wither.
+   * **Roleplay:** PCs can learn lore about her fears/dreams.
+   * **Encounter:** Dreamspawn vines restrain anyone who lingers (DC 15 Str to break).
+
+5. **Endless Library**
+
+   * Stacks of books with moving ladders.
+   * **Puzzle:** Find a single book of prophecy. **Investigation DC 17** or suffer psychic overload (3d6 psychic damage, disadvantage on next Wisdom save).
+
+6. **Hall of Masks**
+
+   * Floating masks show alternate versions of the PCs (temptation visions).
+   * **Will Save:** Wis DC 16 or gain one level of exhaustion (dream-corruption).
+
+7. **Broken Clock Room**
+
+   * Giant floating gears rotate at random intervals.
+   * **Hazard:** Must time jumps (Dex DC 14) or take 2d8 bludgeoning.
+   * **Reward:** Success provides clue to Dreaming Dark’s location.
+
+8. **Reverse Ocean**
+
+   * Ceiling is a swirling ocean, floor is glass.
+   * **Hazard:** Waves crash downward when gravity flips. Con save DC 14 or be knocked prone and pulled into ceiling-water.
+
+9. **Labyrinth of Whispers**
+
+   * Walls whisper secrets and lies.
+   * **Puzzle:** Wis DC 15 to distinguish truth. Failure imposes confusion (1 min).
+
+10. **Astral Menagerie**
+
+    * Dream-formed versions of celestial beasts roam.
+    * **Encounter:** 1–2 Quori “ride” these creatures as mounts.
+
+11. **The Forgotten Nursery**
+
+    * Crumbling dream-memory of Sah’reth’s childhood.
+    * **Roleplay & Horror:** A twisted “imaginary friend” (Dreamspawn) hunts them here.
+
+12. **The Nightmare Core**
+
+    * Heart of the dreamscape, swirling with psychic energy.
+    * **Boss Ambush:** Inspired Assassin manifests here if not yet encountered.
+
+---
+
+### Want me to:
+
+* **Add combat balance notes** (enemy counts, CR scaling, loot)?
+* **Provide a procedural effect table** for Sah’reth’s dream rolls (progress vs. nightmare)?
+* **Make a VTT-ready one-page table** with art for each room?
+
+Which one first?

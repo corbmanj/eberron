@@ -1,0 +1,89 @@
+Prompt: one of the characters died in the dream world. I would like him to come back with some kind of effect, can you provide some options?
+
+Response: Here are **clean, GM-friendly options** for a character who *died in the Dream Realm and returns changed.* These range from mild flavor to meaningful mechanical impacts. Pick whichever best matches the tone you want.
+
+---
+
+# ✅ **Category A: Small, Flavorful Boons**
+
+### **1. Echo of the Dream**
+
+Once per long rest, he may ask a single yes/no question before rolling a d20.
+On a **15+**, he receives a vague, dreamlike hint about the outcome.
+
+### **2. Residual Dreamstuff**
+
+His eyes briefly glow while concentrating or sleeping.
+He no longer needs somatic/material components for **one cantrip** of your choice.
+
+### **3. Softened Ego**
+
+He remembers dying in a place where identity fades.
+Advantage on **Insight checks** for 24 hours.
+
+---
+
+# ✅ **Category B: Mechanical Shifts With Upside + Downside**
+
+### **4. Dreamscarred**
+
+**+1 AC for 1 round** after taking psychic damage,
+but he also takes **+1 psychic damage** from all sources.
+
+### **5. Dal Quor’s Breath**
+
+Gain **resistance to psychic damage**,
+but he suffers **disadvantage on Wisdom saves vs. fear** as nightmare echoes linger.
+
+### **6. Lucid Fragility**
+
+He can cast **Sanctuary** on himself once per long rest.
+However, the first time he drops below half HP in a fight, he becomes **vulnerable to psychic** until healed.
+
+---
+
+# ✅ **Category C: Larger Dream-Themed Transformations**
+
+### **7. Returned With a Third Eye (invisible except in dim light)**
+
+Gain **darkvision 30 ft** or +30 ft if he already has it.
+Once per day, can use **Detect Thoughts** (save uses WIS).
+NPCs may find him unsettling.
+
+### **8. Dream Anchor Tether**
+
+Once per long rest, when he falls to 0 HP, he instead drops to **1 HP** as dreamstuff holds him together.
+After using this, he suffers **one level of exhaustion**.
+
+### **9. Nightmare Infusion**
+
+He gains a **Dreamstrike**:
+Once per turn, add **1d4 psychic damage** to one attack.
+But during long rests, he must succeed a DC 14 WIS save or gain no benefits due to nightmares.
+
+---
+
+# ✅ **Category D: Purely Narrative But Powerful Hooks**
+
+### **10. The Dream Remembers Him**
+
+He occasionally hears whispers in languages he doesn’t know.
+These might provide:
+
+* warnings,
+* clues,
+* or ominous foreshadowing.
+
+### **11. The Quori Mark**
+
+He now leaves faint footprints in dreamstuff, even in the real world (seen only with Detect Magic).
+Quori may now **notice him more easily** in future dream encounters.
+
+### **12. Time Lag**
+
+He occasionally experiences 1–2 seconds of déjà vu.
+Once per session, he may **reroll one ability check** because “he’s seen this before.”
+
+---
+
+If you want, I can **tailor the effect specifically to that PC’s class, backstory, or personality** to make it more meaningful.

@@ -1,0 +1,87 @@
+Prompt: I'd like a battle map, but I'd like muhc more than 3 rooms, can we shoot for something more like 7 or 8 rooms?
+Response: Got it! Expanding the vault to **7–8 rooms** makes it feel like a true infiltration dungeon. Here's a richer version:
+
+---
+
+## **Expanded Vault Layout**
+
+**Theme:** Illusion magic, psychic defenses, elegant traps.
+**Size:** 8 rooms connected by hidden corridors and magical barriers.
+**Goal:** Recover the Dream Shard before Inspired spies intervene.
+
+---
+
+### **Room 1: Grand Hall Entrance**
+
+* **Purpose:** Entry point; ornate and disarming.
+* **Challenge:**
+
+  * Illusion of a gala performance; guests (illusions) may "notice" intruders if they interact incorrectly (Insight DC 14 to realize illusion).
+* **Guardian:** 2 *Phiarlan Bladesingers (CR 5)* patrol subtly.
+* **Trap:** Stepping off red carpet triggers Silent Alarm (Perception DC 15 to see faint shimmer).
+
+---
+
+### **Room 2: Hall of Masks**
+
+* **Purpose:** Gallery of enchanted masks whispering secrets.
+* **Puzzle:** Correct mask must be worn to open next door. Wrong masks impose random psychic effects (Wisdom Save DC 15 or 2d8 Psychic damage and Confusion for 1 round).
+* **Clue:** Investigation DC 16 reveals the “truthful mask” has no reflection.
+
+---
+
+### **Room 3: Hall of Echoing Dreams**
+
+* **Challenge:** Mirror maze with moving reflections.
+* **Trap:** Some mirrors lead to psychic mazes (Wisdom Save DC 15 or lose 1 minute in dream stasis).
+* **Enemies:** 3 *Psi-Hounds (CR 3)* phase in and out of mirrors.
+
+---
+
+### **Room 4: Arcane Conservatory**
+
+* **Purpose:** Magical greenhouse with psychic flora.
+* **Trap:** Psychic spores (Con Save DC 15) cause temporary hallucinations (disadvantage on attacks).
+* **Enemies:** 2 *Verdant Illusions* (homebrew or reflavored Will-o’-Wisps CR 2) feed on psychic energy.
+* **Puzzle:** Must prune a psychic vine blocking door; requires Druidcraft or Arcana DC 14.
+
+---
+
+### **Room 5: Shadow Dance Hall**
+
+* **Purpose:** Training hall for Shadow Dancers.
+* **Encounter:** 2 *Shadow Dancers (CR 5)* plus one *Phiarlan Magewright (CR 6)* practice combat illusions.
+* **Dynamic Combat:** Illusions duplicate enemies (each enemy has 1 mirror image active at start).
+
+---
+
+### **Room 6: Treasury Antechamber**
+
+* **Puzzle:** Four statues of masked figures hold different theatrical poses.
+* **Challenge:** Must match correct pose sequence based on an inscription (Investigation DC 17).
+* **Consequence:** Incorrect sequence triggers psychic shockwave (Dex Save DC 15, 3d8 Psychic).
+
+---
+
+### **Room 7: Sealed Vault**
+
+* **Purpose:** Dream Shard sits on levitating pedestal within magic circle.
+* **Encounter:**
+
+  * *Phiarlan Magewright* (CR 6) & 2 *Animated Armors (CR 1)* guard the shard.
+* **Puzzle:** Removing shard without dispelling circle (Arcana DC 18) shatters it into psychic motes.
+
+---
+
+### **Room 8: Emergency Passage**
+
+* **Purpose:** Escape tunnel or confrontation with Inspired Agent.
+* **Hook:** As party exits, they glimpse a **Dreamshade Assassin (Inspired Operative)** phasing through the wall — foreshadowing Session 2.
+
+---
+
+Would you like:
+
+* **Battle map** with **grid, walls, lighting, and secret doors**?
+* Should it be **opulent & elegant** (like a magical art museum) or **shadowy & secretive** (spy fortress aesthetic)?
+* **VTT-ready** (Roll20/Foundry) or **printable**? Or both?

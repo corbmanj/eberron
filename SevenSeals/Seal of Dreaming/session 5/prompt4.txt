@@ -1,0 +1,141 @@
+Prompt: this is good, we'll table this for now. This will be the third encounter. For the second encounter, the group will walk into a mirrored room, similar to a house of mirrors. They will each see a reflection of a different party member in the mirror and will be forced to take control of that character for the encounter. The players will not really enjoy this, so I want to keep this encounter short. I would like there to be a battle mixed with skill checks. There should be 4 "switches" around the environment, each switch will require a different skill check to disable. Once all four switches are disabled and all remaining enemies are defeated, then the encounter is over, the mirrors break and everyone is back to themselves. Maybe the switches could even be spawn points for minions and minions come out of each spawn point at the top of the round until the corresponding switch is disabled.
+
+Response: Below is a **tight, fast-running encounter** designed to minimize how long the players must run each other’s characters, while still delivering the “Inversion” theme and providing a fun mix of combat + skill challenges.
+
+---
+
+# **Encounter: The Hall of Reversed Selves**
+
+## **Environment**
+
+A circular, mirrored chamber (40–60 ft across). Every wall is a reflection, but each mirror shows **a different party member**, not the one who is looking into it.
+When the PCs step inside, their reflections **step out of the mirrors**, and the characters abruptly find their minds inside another party member’s body (swap sheets).
+
+Ambient effects:
+
+* Sound echoes backward.
+* Reflections move half a second *too fast*.
+* Footsteps feel delayed.
+
+The moment the swap happens, **four crystalline mirror-pillars** around the room hum to life.
+Each contains a swirling shard of dreamstuff and acts as a **switch/spawn point**.
+
+---
+
+# **Objective**
+
+🔹 **Disable all four switches** (skill checks)
+🔹 **Defeat any remaining minions**
+🔹 **Break the inversion**
+
+Minions spawn every round until their switch is disabled, ensuring urgency and keeping the fight short.
+
+---
+
+# **The Four Switches (Skill Challenges)**
+
+Each switch is a mirrored pillar with glowing runes. Disabling one requires a PC (in someone else’s body!) to use one of the following checks:
+
+### **Switch 1 — Insight (DC 15): The Mirror of Truth**
+
+The pillar reads your “reflected thoughts.”
+A correct interpretation dispels it.
+Fail by 5+ → you take 1d8 psychic damage.
+
+### **Switch 2 — Athletics (DC 16): The Mirror of Force**
+
+Must physically shatter a psychic barrier.
+Disadvantage if the body you’re in has low STR.
+Fail → stunned until the end of your next turn.
+
+### **Switch 3 — Arcana (DC 14): The Mirror of Logic**
+
+Reality “glitches.”
+You must attune to the dreamweave and invert the runes.
+Fail → wild magic-like surge (GM chooses a harmless glitch).
+
+### **Switch 4 — Persuasion (DC 15): The Mirror of Identity**
+
+You must convince the mirror who you “really” are.
+Perfect for swapping sheets.
+Fail → mirror creates a temporary illusion of an enemy (no damage, but wastes time).
+
+**Each switch disabled removes its corresponding spawn point.**
+
+---
+
+# **Minion Spawn Points**
+
+Each active switch spawns **1 minion at initiative 20 (top of round)**.
+Minions step out of the mirrors like reflections walking through glass.
+
+Use existing MM stat blocks to keep it simple:
+
+### **Spawn 1: 1 × Shadow (MM p. 269)**
+
+Associated with the Insight switch.
+Fast, annoying, low HP.
+
+### **Spawn 2: 1 × Flying Sword (MM p. 20)**
+
+From the Athletics switch.
+Represents weaponry coming alive.
+
+### **Spawn 3: 1 × Specter (MM p.279)**
+
+From the Arcana switch.
+Dream-ghost flickering between reflections.
+
+### **Spawn 4: 1 × Mirror Mephit (reskinned *Magma Mephit*, MM p.216)**
+
+From the Persuasion switch.
+No fire—swap to psychic damage.
+
+This keeps the fight dynamic without overwhelming the swapped PCs.
+
+---
+
+# **Combat Flow (Fast 3–5 Round Encounter)**
+
+### **Round 1**
+
+* Swap characters.
+* First set of 4 minions spawn.
+* PCs scramble to understand new abilities.
+* 1–2 switches likely disabled this round.
+
+### **Round 2**
+
+* Remaining switches spawn new minions.
+* Players begin to settle into the chaos.
+* 1–2 more switches disabled.
+
+### **Round 3**
+
+* Final switch spawns.
+* After it’s disabled, **no more minions spawn**.
+* Last few minions get mopped up.
+
+### **End**
+
+All remaining mirrors shatter inward like imploding glass. The character swaps end instantly, and they return to their own bodies in a swirl of dreamstuff.
+
+---
+
+# **Encounter Narrative Ending**
+
+As the final mirror-pillar cracks apart, every reflection in the chamber freezes, stares directly at its corresponding PC, and whispers:
+
+**“Know yourself. Know another. Know the dream.”**
+
+Then the mirrored walls cascade into liquid silver, draining into the floor.
+Bodies and minds snap back into alignment with a jarring lurch.
+The path to the next chamber reveals itself as the room dissolves.
+
+---
+
+If you want, I can provide:
+✅ A simple 30x30 or 40x40 VTT map of the mirrored chamber
+✅ The dream-logic “glitch table” for the Arcana switch
+✅ Variant minions for higher stakes
+✅ A shortened version to read aloud at the table

@@ -1,0 +1,94 @@
+Prompt: you made the Tsucora Quori quite a bit more powerful than the inspired assassin boss, can you tone down the tsucora and turn up the difficulty on the boss 
+
+Response: Got it. Here's a **rebalanced version** for a **level 8 party**, making the Tsucora a solid elite foe but not overwhelming, and upgrading the Inspired Assassin into a more dangerous boss encounter.
+
+---
+
+### **Tsucora Quori (Adjusted)**
+
+*Medium Aberration, Lawful Evil*
+
+**Armor Class:** 15 (natural armor)
+**Hit Points:** 90 (12d8 + 36)
+**Speed:** 40 ft.
+
+**STR** 16 (+3)
+**DEX** 14 (+2)
+**CON** 16 (+3)
+**INT** 14 (+2)
+**WIS** 12 (+1)
+**CHA** 16 (+3)
+
+**Saving Throws:** Dex +4, Wis +3, Cha +5
+**Skills:** Insight +3, Stealth +4
+**Damage Resistances:** Psychic; Bludgeoning, Piercing, Slashing (nonmagical)
+**Condition Immunities:** Charmed, Frightened
+**Senses:** Darkvision 60 ft., Passive Perception 11
+**Languages:** Quori, telepathy 120 ft.
+**Challenge:** 5 (1,800 XP)
+
+---
+
+#### Traits
+
+* **Dream Form.** Advantage on saving throws and attack rolls while in Dal Quor or a dreamscape.
+* **Innate Spellcasting (Psionics).** DC 13. At will: *detect thoughts*. 2/day: *fear*.
+
+---
+
+#### Actions
+
+* **Multiattack.** The quori makes two claw attacks.
+* **Claw.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) slashing damage plus 4 (1d8) psychic damage.
+* **Nightmare Touch (Recharge 6).** DC 13 Wis save or frightened for 1 round and take 14 (4d6) psychic damage.
+
+---
+
+### **Inspired Assassin (Upgraded Boss)**
+
+*Medium Humanoid (Human), Lawful Evil*
+
+**Armor Class:** 18 (psychic barrier)
+**Hit Points:** 142 (19d8 + 57)
+**Speed:** 40 ft.
+
+**STR** 14 (+2)
+**DEX** 20 (+5)
+**CON** 16 (+3)
+**INT** 14 (+2)
+**WIS** 14 (+2)
+**CHA** 18 (+4)
+
+**Saving Throws:** Dex +9, Int +6, Wis +6
+**Skills:** Acrobatics +9, Deception +8, Perception +6, Stealth +13
+**Damage Resistances:** Psychic; Bludgeoning, Piercing, Slashing (nonmagical)
+**Senses:** Passive Perception 16
+**Languages:** Common, Quori
+**Challenge:** 9 (5,000 XP)
+
+---
+
+#### Traits
+
+* **Assassinate.** Advantage on attack rolls against surprised creatures. Any hit on a surprised creature is a critical hit.
+* **Innate Spellcasting (Psionics).** DC 15; at will: *minor illusion*; 3/day: *misty step, suggestion*; 1/day: *greater invisibility, hold person*.
+* **Psychic Strike (1/turn).** On a hit, deal +14 (4d6) psychic damage.
+* **Phase Step (Recharge 4–6).** As a bonus action, teleport 20 ft. without provoking opportunity attacks.
+
+---
+
+#### Actions
+
+* **Multiattack.** Two shortsword attacks.
+* **Shortsword.** +9 to hit, 1d6+5 piercing plus 14 (4d6) psychic damage.
+* **Mind Shatter (Recharge 5–6).** 20-ft. cone; DC 15 Int save or take 27 (6d8) psychic damage and be stunned until end of next turn.
+
+---
+
+Would you like me to:
+
+1. **Make a single VTT-ready monster sheet for both (PNG + PDF)?**
+2. **Include a Dreamspawn variant to serve as minions for the boss fight?**
+3. **Scale boss to be Deadly-tier for a climactic encounter (CR 10–11)?**
+
+Which do you prefer? **1, 2, or 3 – or a mix?**

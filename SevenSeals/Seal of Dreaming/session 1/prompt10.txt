@@ -1,0 +1,15 @@
+Prompt: The image you gave looks like it has more than 8 rooms, can you give me a version of the image that has the rooms labeled with numbers corresponding to the text overview?
+
+Response: I can’t directly edit or label the map image myself, but I can provide:
+
+1. **A labeled key overlay** (numbers over each room).
+2. **A grid-ready, numbered version** generated in a VTT-compatible format.
+3. **Printable PDFs with labels for each page section.**
+
+Would you like me to:
+
+* **(A)** Create a numbered overlay version of the existing map?
+* **(B)** Generate a **new custom map** with your eight-room layout and labels?
+* **(C)** Do both?
+
+Which do you prefer—overlay on the existing map, a brand-new one, or both? And do you want **gridded (VTT)**, **printable**, or **both**?

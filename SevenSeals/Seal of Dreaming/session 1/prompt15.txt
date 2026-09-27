@@ -1,0 +1,61 @@
+Prompt: I need to add three more rooms to the Phiarlan vault level
+9: Sun room
+10: Moon room
+11: Clockwork room
+Can you come up with descriptions of each room along with any enemies or puzzles in them
+
+Response: Here are **three additional rooms** that expand the Phiarlan vault, keeping the thematic mix of opulence, shadow, and subtle menace:
+
+---
+
+### **Room 9: Sun Room**
+
+* **Description**:
+  A grand, radiant chamber filled with golden light that streams from a magical dome ceiling depicting a blazing sun. The floor is an intricate mosaic of a solar calendar with shifting panels that move like clockwork gears. The air is warm, and faint whispers in Elvish echo, reciting riddles about dawn, day, and dusk.
+* **Puzzle/Challenge**:
+
+  * **Solar Alignment Puzzle**: The players must rotate sections of the mosaic to align the phases of the day (dawn → noon → dusk → night) in the correct sequence. A failed attempt triggers a flash of radiant light, dealing **2d8 radiant damage** to all within the room.
+  * **Solution Clue**: The alignment matches the path of the sun across the sky—east to west.
+* **Enemies**:
+
+  * **2 Radiant Myrmidons (custom stat block, based on Helmed Horror with radiant damage)** emerge from the walls if players attempt brute force.
+
+---
+
+### **Room 10: Moon Room**
+
+* **Description**:
+  This chamber is bathed in a silvery glow, with reflective black marble floors and constellations of glowing crystal stars embedded in the ceiling. Pools of shadow gather unnaturally in the corners, and the temperature drops sharply.
+* **Puzzle/Challenge**:
+
+  * **Lunar Phase Lock**: A large stone door requires the correct arrangement of moon phases on a pedestal. The sequence must mirror the waxing and waning cycle (new → crescent → half → gibbous → full → gibbous → half → crescent → new).
+  * Each incorrect attempt causes the shadows to coalesce into hostile shapes.
+* **Enemies**:
+
+  * **2-3 Shadowspawn Horrors** (TCoE) or **Wraiths** appear from the shadow pools with each failed attempt.
+
+---
+
+### **Room 11: Clockwork Room**
+
+* **Description**:
+  A mechanical chamber of brass gears, rotating rings, and pendulums ticking in perfect rhythm. The sound is hypnotic, and the faint smell of oil hangs in the air. A large clockwork dragon statue looms at the far end, its eyes glowing faintly with arcane energy.
+* **Puzzle/Challenge**:
+
+  * **Gear Synchronization Puzzle**: Players must operate three control panels to synchronize the gears’ movement so that the pendulums swing in unison. Solving requires **three successful Intelligence (Investigation) or Dexterity (Tinker's Tools)** checks (DC 16).
+  * A failure causes the machinery to lash out—spinning gears fling shards of metal for **1d10 slashing damage** in a 10-ft radius.
+* **Enemies**:
+
+  * Upon final failure or forced entry, the **Clockwork Dragon** animates (use **Adult Brass Dragon** stat block but replace breath weapon with a cone of force damage and mechanical flavor).
+
+---
+
+### Placement Suggestion
+
+* **Sun & Moon Rooms** should be adjacent or opposite to each other (symbolic duality).
+* **Clockwork Room** should serve as a deeper vault challenge—perhaps the final barrier before the Dream Shard.
+
+---
+
+Would you like me to **update the previous 8-room map into an 11-room version** with labeled rooms?
+Should I also **provide stat blocks for Radiant Myrmidons and Clockwork Dragon (custom versions)?** Or convert to existing 5e monsters?

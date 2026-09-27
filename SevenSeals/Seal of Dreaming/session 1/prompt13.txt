@@ -1,0 +1,3 @@
+prompt: generate a new 8-room map that matches the text based description you provided
+
+response: two images

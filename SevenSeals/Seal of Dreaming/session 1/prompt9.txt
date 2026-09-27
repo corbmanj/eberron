@@ -1,0 +1,130 @@
+Prompt: The early rooms should be opulent while as you go deeper it should become more shadowy and secretive. Lets go with both VTT ready and printable
+Response: [![2minutetabletop.com/roya...](https://images.openai.com/thumbnails/url/NrMUnnicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6Kdw9LNNYt9TNIDy108a-IKPQ1NAn0NXUMCQuqMq5wL8swLHR3TXRzcfbWLQuIqsj2yzaqTE0s9o5SKwYAqlIotw)](https://2minutetabletop.com/royal-bank-battle-map/)
+
+Here’s an example battle map—a richly detailed, elegant bank vault layout that fits our needs well. The ornate corridors and vault-like rooms in this map evoke that opulent aesthetic for early entry, while deeper areas can transition into more shadowy, secretive spaces.
+
+---
+
+## Expanded Vault Design: Opulent to Shadowy (8 Rooms)
+
+Below is a descriptive battle map layout suitable for both printable and VTT use. The early rooms are lavish and theatrical, gradually growing darker and more secretive as the party penetrates deeper.
+
+### Vault Layout Diagram (Text Overview)
+
+```
+[Room 1] – Grand Hall Entrance
+         |
+[Room 2] – Hall of Masks
+         |
+[Room 3] – Arcane Conservatory
+         |
+[Room 4] – Hall of Echoing Dreams
+         |
+[Room 5] – Shadow Dance Hall
+         |
+[Room 6] – Treasury Antechamber
+         |
+[Room 7] – Sealed Vault Chamber
+         |
+[Room 8] – Emergency Passage / Foreshadowing Exit
+```
+
+---
+
+### Room-by-Room Descriptions & Features
+
+---
+
+#### **Room 1: Grand Hall Entrance (Opulent)**
+
+* **Visual**: Marble floors, gilded columns, enchanted chandeliers casting dancing lights.
+* **Encounter**: 2 *Phiarlan Bladesingers (CR 5)* act as subtle guardians.
+* **Trap**: Stepping off the red carpet triggers a silent alarm (Perception DC 15).
+
+---
+
+#### **Room 2: Hall of Masks (Opulent Gallery)**
+
+* **Visual**: Gallery walls lined with ornate, enchanted masks.
+* **Puzzle**: Only the “truthful mask” (no reflection) opens the next door. Investigate DC 16.
+* **Consequence**: Wrong mask causes psychic damage (WIS Save DC 15 or 2d8 + Confusion 1 round).
+
+---
+
+#### **Room 3: Arcane Conservatory (Lush Transition)**
+
+* **Visual**: Glass-domed greenhouse with glowing psychic flora.
+* **Trap**: Psychic spores—DC 15 CON save or suffer hallucination (disadvantage on all attacks for 1 round).
+* **Challenge**: Need Druidcraft or Arcana (DC 14) to prune vine blocking exit.
+* **Enemy**: 2 *Verdant Illusions* (reskinned Will-o’-Wisps, CR 2).
+
+---
+
+#### **Room 4: Hall of Echoing Dreams (Surreal Transition)**
+
+* **Visual**: Corridor of mirrors reflecting distorted party images.
+* **Trap**: Three mirror portals send characters into psychic labyrinths (WIS Save DC 15 or lose 1 minute in stasis).
+* **Enemies**: 3 *Psi-Hounds (CR 3)* that phase through mirrors to ambush.
+
+---
+
+#### **Room 5: Shadow Dance Hall (Shadowy)**
+
+* **Visual**: Dimly lit practice hall with shifting illusions and mirrored floors.
+* **Encounter**:
+
+  * 2 *Shadow Dancers (CR 5)* using illusion-enhanced moves.
+  * 1 *Phiarlan Magewright (CR 6)* casting supportive spells.
+* **Dynamic**: Illusory duplicates (Mirror Image effect) active at battle start.
+
+---
+
+#### **Room 6: Treasury Antechamber (Shadowy)**
+
+* **Visual**: Vault-like room with statues in dramatic poses.
+* **Puzzle**: Set statues to correct theatrical poses indicated by inscription (Investigation DC 17).
+* **Consequence**: Incorrect alignment triggers psychic shockwave (DEX Save DC 15, 3d8 Psychic).
+
+---
+
+#### **Room 7: Sealed Vault Chamber (Deep Shadow)**
+
+* **Visual**: Circular chamber, low lighting, magic circle and pedestal with Dream Shard.
+* **Encounter**:
+
+  * 1 *Phiarlan Magewright (CR 6)* with 2 *Animated Armors (CR 1 each)*.
+* **Puzzle**: Removal of shard requires dispelling the circle (Arcana DC 18), or the shard shatters into motes, requiring a short rest for repair.
+
+---
+
+#### **Room 8: Emergency Passage (Foreshadowing Exit)**
+
+* **Visual**: Narrow, dark corridor descending deeper, dim torchlight.
+* **Hook**: The Inspired Assassin phasing in—visible briefly through wall as warning for Session 2.
+
+---
+
+## How to Use This Map
+
+### VTT Version
+
+* Use the provided map image or a custom art inspired by it.
+* Overlay with grid (5 ft. squares).
+* Create fog-of-war revealing deeper rooms as players progress.
+* Adjust lighting: bright in Rooms 1–3; flickering and dim by Rooms 5–8.
+
+### Printable Version
+
+* Print the layout on multiple A4 pages or a fold-out.
+* Offer player maps for Rooms 1–3; GM-only map reveals deeper areas as players move.
+* Annotate trap/puzzle locations lightly or via separate note page.
+
+---
+
+If you'd like, I can also:
+
+* Provide a **VTT-ready annotated version** with grids and lighting instructions.
+* Offer **print-friendly PDF sheets** with each room.
+* Generate **stat blocks and initiative notes** for each encounter.
+
+Let me know which format—or all of the above—would suit you best for prepping your game!

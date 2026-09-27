@@ -1,0 +1,94 @@
+Prompt: ok, I'm ready for help building the second session. These are the main plot points I would like to hit on for session 2.
+* The players enter a dreamscape (an entryway to the realm of dreams) —shifting gravity, illogical architecture, and reality-bending phenomena.
+* This dreamscape is a manifestation of Sah'reths own dreams, she has to roll at every turn and every new room to see if they're making progress or going to the wrong way towards a nightmare
+* Each player faces a fear or tempting hallucination that they must overcome or face a penalty throughout the rest of the dream realm
+* Agents of the Dreaming Dark attempt to thwart them at every turn
+* Quori forces (Dreamspawn, tsucora) sense the intrusion and hunt the party.
+
+Response: Here’s a structured session outline for **Session 2: The Dreamscape of Sah’reth** (entry to Dal Quor):
+
+---
+
+## **Session Flow**
+
+### **1. Entry to the Dreamscape (Opening Scene)**
+
+* **Transition Event**: Party performs a ritual (or is pulled into Sah’reth’s dream) – describe sudden vertigo, colors running like paint, and a sensation of being stretched between realities.
+* **Environmental Effects**:
+
+  * Gravity shifts sideways or upside-down.
+  * Floors ripple like water.
+  * Doors lead to strange places (stairs to nowhere, hallways that loop).
+* **Skill Challenge** (DC 15):
+
+  * **Arcana** to stabilize dream magic.
+  * **Insight** to “read” the dream’s logic.
+  * **Wisdom Save** to avoid being disoriented.
+
+---
+
+### **2. Sah’reth’s Dream Map (Navigation Mechanic)**
+
+* **Progress Rolls**: At the start of each new room or area, Sah’reth must roll **Wisdom (Insight) or Charisma (Persuasion)** (DC 16) to guide the party.
+
+  * **Success** → Path forward.
+  * **Failure** → Nightmare Room (hostile encounter or psychic hazard).
+  * **Three Failures** → Party risks waking a Nightmare Quori (mini-boss fight).
+
+---
+
+### **3. Fear & Temptation Rooms**
+
+Each PC faces a **manifestation of fear or temptation**, resolved via:
+
+* **Wisdom Saving Throw (DC 16)** or **Roleplay Solution**.
+* Failure imposes a **Dream Scar** (penalty until leaving Dal Quor):
+
+  * Disadvantage on Wisdom checks.
+  * Loss of one spell slot (random level) after long rest.
+  * Psychic feedback (1d6 psychic damage whenever frightened).
+
+**Example Encounters**:
+
+* **Fear**: Endless hallway lined with mirrors showing PCs dying in different ways.
+* **Temptation**: A version of their life where they never took risks — peaceful but hollow — asking them to stay.
+
+---
+
+### **4. Agents of the Dreaming Dark**
+
+* **Stealth Encounter**: Dreaming Dark spies try to observe unseen.
+* **Combat Encounter**:
+
+  * **Tsucora Quori** (CR 5) — possess dreams & create phantasmal blades.
+  * **Dreamspawn Minions** — shifting shadow creatures (CR 1-2).
+
+---
+
+### **5. Climax – Quori Hunt**
+
+* After enough rooms, the intrusion alerts a **powerful Quori Hunter**:
+
+  * **Option A:** Inspired Assassin (Elite Version) — assassin stat block with psionic powers.
+  * **Option B:** Tsucora Quori Champion with lair-like dream powers (gravity shifts, dream spikes of psychic energy).
+
+---
+
+### **6. Escape / Resolution**
+
+* Final skill challenge to find the “Anchor Point” — an exit door shaped like Sah’reth’s memory.
+* If failed, the party faces **Nightmare Collapse**:
+
+  * The dream tries to eject them violently → everyone takes psychic & force damage.
+  * Possible permanent mental scars (minor flaws or quirks).
+
+---
+
+## **What Do You Need Next?**
+
+1. **Map of Dreamscape (VTT-Ready)** with nightmare rooms & branching paths?
+2. **Stat blocks** for Tsucora Quori, Dreamspawn, & Inspired Assassin (Dream-empowered)?
+3. **Fear/Temptation Room prompts** for each PC with skill challenges & roleplay hooks?
+4. **Full Session Script** (read-aloud text, skill checks, encounter flow)?
+
+Which do you want first (or all)?

@@ -1,0 +1,13 @@
+Prompt: 1 and 2
+
+Response: Got it – you want:
+
+1. **A numbered overlay version** of the existing map.
+2. **A VTT-ready version** with clear room numbering.
+
+I can generate a labeled version for both.
+Can you confirm:
+
+* **Map format:** PNG (for VTT), PDF (for print), or both?
+* **Grid size:** Standard 5 ft. squares?
+* Should I add **a legend with short room names** (e.g., “1 – Ballroom, 2 – Gallery…”) or just numbers?

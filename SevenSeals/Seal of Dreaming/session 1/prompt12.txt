@@ -1,0 +1,11 @@
+prompt: png for both, standard 5ft squares, and just numbers
+
+response: I can generate a numbered overlay in PNG format and a VTT-ready version, but I’ll need either:
+
+* **The original map image** you want labeled, or
+* **A rough layout sketch** (rooms + connections) so I can build a new one.
+
+Do you want me to:
+
+1. **Edit the map you found online** (please upload it), or
+2. **Generate a fresh 8-room map** in the style you described (opulent → shadowy)?

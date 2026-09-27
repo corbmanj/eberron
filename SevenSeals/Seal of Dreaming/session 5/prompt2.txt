@@ -1,0 +1,77 @@
+Prompt: lets use existing stat blocks from the moster manual as a base
+
+Response: Perfect — we’ll use official *Monster Manual* stat blocks and lightly re-flavor them to fit the dreamlike, inverted aesthetic. This keeps things mechanically simple but narratively weird. Here’s how I’d structure the **combat portion of the “Trial of Inversion”** using MM creatures:
+
+---
+
+## ⚔️ **Inverted Battle Encounter: “Reflected Host”**
+
+### 💀 Composition (Balanced for 5 level 8 PCs)
+
+* **2 × Helmed Horrors** (MM p. 183) → *Reflavored as Mirror Golems*
+* **1 × Wraith** (MM p. 302) → *Reflavored as Inverted Wraith*
+* Optional: **1d4 Shadows** (MM p. 269) entering in Round 3 from the “mirrors” to increase tension if the party breezes through.
+
+This should create a **medium-to-hard** encounter depending on tactics and terrain.
+
+---
+
+### 🪞 **Mirror Golems (Helmed Horror variant)**
+
+Use the **Helmed Horror** stat block as-is but change the following for flavor:
+
+**Resistances:** Instead of choosing any three spells to ignore, the Mirror Golems have:
+
+* **Resistance:** Psychic; Nonmagical bludgeoning, piercing, and slashing
+* **Immune:** Fire, Poison
+* **Special:** *Reflective Plating.* When targeted by a ranged spell attack, the caster must make a DC 15 Wisdom save or the attack instead targets themselves.
+
+**Appearance:** Their armor is a mosaic of shifting mirror shards, reflecting distorted versions of the heroes. Their movements leave trails of refracted light and echoing whispers of the PCs’ voices.
+
+**Dream Realm Flavor:** When struck, they shatter momentarily into a thousand shards before reforming, screaming with the player’s own voice.
+
+---
+
+### 🌑 **Inverted Wraith (Wraith variant)**
+
+Use the **Wraith** stat block with these adjustments:
+
+**Resistances:**
+
+* Swap **resistance to necrotic** with **vulnerability to necrotic**
+* Gains **resistance to radiant**
+
+**New Trait — Reversal Aura (10 ft.):**
+Creatures starting their turn within 10 ft. of the Inverted Wraith must make a DC 15 Wisdom save or suffer *inverted senses* until the start of their next turn (disadvantage on attack rolls, but advantage on Insight/Perception).
+
+**Flavor:**
+The Inverted Wraith appears as a flickering silhouette in reverse colors — light where there should be shadow, eyes like glowing voids. It speaks in backwards echoes of the players’ words.
+
+**Tactics:**
+
+* Begins the fight by draining a Mirror Golem’s essence (regaining HP).
+* Uses **Life Drain** primarily on inverted characters (those with low CON or Wisdom).
+* Focuses on isolating a single target while illusions of it flicker around the battlefield.
+
+---
+
+### 🧩 **Dream Terrain Features (for the 60×60 arena)**
+
+* **Mirrored Floor:** Ranged attacks that miss by 5 or less ricochet; roll again to see if they hit another creature (1–3 enemy, 4–6 ally).
+* **Gravity Flux Zones:** 10-ft-radius areas where gravity flips vertically each round.
+* **Mirror Pillars (AC 15, HP 30):** Breaking one reduces the Wraith’s AC by 1 but also deals 10 psychic damage to all nearby creatures as reality distorts.
+
+---
+
+### 🌙 **End of the Battle**
+
+As the Inverted Wraith dissolves, the mirrored floor liquefies into rippling silver light. The reflections of the heroes bow, then melt into their feet — returning them to their true forms.
+A whisper echoes:
+
+> “To know yourself, you must first be another.”
+
+They awaken in a circular platform suspended in void, ready to face the **Trial of Emotion** or **Dream Logic**, whichever comes next.
+
+---
+
+Would you like me to create a **30×30 VTT-ready battle map** for this mirrored arena next (to match the encounter)?

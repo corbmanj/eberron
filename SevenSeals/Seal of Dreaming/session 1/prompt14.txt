@@ -1,0 +1,32 @@
+Prompt: what monster stat block would you recommend for the phiarlan bladesingers in room 1?
+
+Response: For **House Phiarlan Bladesingers** (elite elven duelists), you can build from existing stat blocks with light modifications to fit their mix of grace, magic, and deadly precision.
+
+### **Base Stat Block Recommendation**
+
+* **Starting Point:** *Swashbuckler* (Volo’s Guide to Monsters, p. 217)
+* **Adjustments:**
+
+  * Add **1–2 minor spells** (Mirror Image, Misty Step, Shield).
+  * Give them a **Rapier** or **Elven Thinblade** with finesse and possible poison.
+  * AC slightly higher (AC 17–18) due to magical agility or light magical armor.
+  * Hit Points: ~85–100 (CR 5–6) for elite duelists.
+
+---
+
+### **Custom Bladesinger (CR 6)**
+
+* **AC:** 18 (Mage Armor + Dex + Bladesong)
+* **HP:** 95 (10d8+40)
+* **Speed:** 40 ft.
+* **STR 12 / DEX 18 / CON 14 / INT 16 / WIS 12 / CHA 14**
+* **Saving Throws:** DEX +7, INT +6
+* **Skills:** Acrobatics +7, Stealth +7, Perception +4
+* **Multiattack:** 3 rapier attacks (+7 to hit, 1d8+4 piercing).
+* **Bladesong (Recharges on Short Rest):** Bonus Action; lasts 1 minute; adds +2 AC, +10 speed, advantage on Acrobatics.
+* **Spellcasting:** DC 14; At will – *Mage Hand, Minor Illusion*; 3/day – *Mirror Image, Misty Step, Shield*.
+* **Parry:** Reaction; +3 AC against one melee attack.
+
+---
+
+Would you like a **printable stat block card** (D&D Beyond style) or a **homebrew monster entry** formatted like the Monster Manual? Or **both**?

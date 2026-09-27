@@ -1,0 +1,88 @@
+Prompt: Are you ready to help me build out phase 2 of the characters trials in the Realm of Dreams? The theme is "Inversion": A surreal mirrored world where roles and abilities reverse. My plan is to have players swap character sheets and have to play eachother's characters. I would like the trial to involve, physical and mental challenges as well as a small battle.
+
+Response: That’s a fantastic theme — “Inversion” is perfect for the Dream Realm, and swapping character sheets will make it delightfully chaotic. Here’s a complete outline for **Phase 2: The Trial of Inversion**, with structure, environment, challenges, and battle ideas:
+
+---
+
+## 🌙 **Phase 2: The Trial of Inversion**
+
+### ✨ Setting
+
+The party steps into a **vast mirrored chamber** suspended in an endless void. The floor and ceiling reflect each other perfectly, as though gravity flows both ways. Their reflections move independently for a moment—then **switch places** with them. When the reflections stabilize, everyone finds themselves in **each other’s bodies**.
+
+**Environmental Effects**
+
+* Up and down swap unpredictably every few rounds (DC 14 DEX save to keep footing).
+* Reflections of the players sometimes mimic incorrect actions—disorienting the group.
+* The air hums like struck glass; sound echoes backward, sometimes before the source.
+
+---
+
+### 🌀 **Inversion Mechanic**
+
+Each player hands their character sheet to another player. Encourage roleplay — they suddenly understand new instincts, weapon familiarity, or magical focus.
+
+* **Class Features Reversed:** Martial classes might feel “clumsy” with spells; spellcasters feel “power-drunk” but fragile.
+* **Mental Stats Flip:** For checks, WIS/INT/CHA bonuses are reversed with STR/DEX/CON for the duration of the trial. (Optional rule if you want added confusion.)
+
+---
+
+### ⚖️ **The Challenges**
+
+#### 1. **Mirror Logic (Mental Challenge)**
+
+A massive mirror blocks the way forward. It speaks in riddles that contradict themselves.
+
+* **Puzzle Concept:** They must answer incorrectly to open it — embracing the “inversion” logic.
+* Example riddle:
+  *“When is the truth a lie, and lies the only truth?”*
+  Correct (inverted) answer: “When reflected.”
+
+**Mechanic:**
+
+* Group must succeed on **3 Insight or Investigation checks (DC 15)** to understand the inversion logic.
+* Failing by 5+ causes psychic feedback (2d8 psychic damage).
+
+---
+
+#### 2. **Reversed Gravity Chamber (Physical Challenge)**
+
+A narrow bridge suspended between mirrored floors; every 2 rounds gravity flips.
+
+* **Players must cross a 40-ft mirrored bridge** while gravity alternates.
+* **DC 14 Acrobatics or Athletics** per flip to hold on.
+* If they fail, they fall 30 ft to the “ceiling” — but there’s another bridge there, equally unstable.
+
+---
+
+#### 3. **Combat: The Reflected Host**
+
+Once they reach the chamber’s heart, they face **their own reflections** — but inverted.
+Each reflection has:
+
+* Their own stats, but reversed **damage type affinity and resistances.**
+* Example: Fire resistance → vulnerability to fire, and vice versa.
+* Reflected HP: 75% of the player’s HP at start.
+
+**Twist:** The reflections use the *“wrong”* powers. The barbarian might recklessly try to cast a spell. The wizard tries to rage. It’s chaotic but dangerous.
+
+Alternatively, for a more structured fight:
+**Enemies: 2 Mirror Golems + 1 Inverted Wraith**
+
+* *Mirror Golem (CR 6)* – reflects ranged/magic attacks (disadvantage to hit), immune to psychic damage.
+* *Inverted Wraith (CR 5)* – heals from necrotic, takes damage from radiant.
+
+---
+
+### 🌑 **Resolution**
+
+When the final reflection shatters, the mirror world collapses inward like glass being sucked into a vortex. The players’ forms dissolve and reassemble into their own bodies—but they each retain a fleeting memory of another’s emotions or instincts.
+
+**Reward Ideas**
+
+* *Echo of Empathy:* Gain inspiration and +1 to Insight or Persuasion until the end of the Dream Realm arc.
+* *Reflected Edge:* Once per long rest, they can invert one attack roll (turning a hit into a miss or vice versa).
+
+---
+
+Would you like me to generate **stat blocks** for the Mirror Golem and Inverted Wraith (both unique dream creatures), or use existing ones from the Monster Manual as a base?

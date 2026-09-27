@@ -1,0 +1,65 @@
+Prompt: Can you come up with 12 simple dream themes, 6 good and 6 bad that a character might have while sleeping in the dream realm?
+
+Response: Perfect — this fits beautifully for your dream-realm arc. Here’s a **d12 table of dream themes**, half **good** (beneficial) and half **bad** (detrimental), each with a simple mechanical effect you can drop into play.
+
+---
+
+## 🎲 d12 Dream Themes
+
+### **Good Dreams (1–6)**
+
+1. **Endless Feast** – You dream of food that never runs out.
+
+   * Effect: Wake refreshed, gain **temporary HP = proficiency bonus**.
+
+2. **Flight Over Mountains** – You soar effortlessly through skies of gold.
+
+   * Effect: Next day, your **movement speed increases by 5 ft.**
+
+3. **Song of Harmony** – Dream-music soothes your soul.
+
+   * Effect: Advantage on the first **Wisdom saving throw** you make the next day.
+
+4. **Lost Loved One’s Smile** – A cherished figure appears, offering guidance.
+
+   * Effect: Gain **1d4 bonus** to your next attack roll or saving throw.
+
+5. **Weapons of Light** – You wield shining dream-forged arms against shadows.
+
+   * Effect: Your first weapon attack the next day deals an extra **1d6 radiant damage**.
+
+6. **Shared Dream** – You and your allies see yourselves victorious.
+
+   * Effect: Each ally gains **advantage on one ability check** the next day.
+
+---
+
+### **Bad Dreams (7–12)**
+
+7. **Endless Chase** – Something hunts you and you never escape.
+
+   * Effect: Wake anxious, gain **disadvantage on initiative**.
+
+8. **Suffocating Depths** – You drown in black waters.
+
+   * Effect: **Disadvantage on your first Concentration check** the next day.
+
+9. **Rotting Mirror** – You see yourself decaying, powerless.
+
+   * Effect: Lose **1 Hit Die** until next long rest.
+
+10. **Broken Companions** – Allies betray you in dream.
+
+    * Effect: **Disadvantage on Insight checks** against creatures the next day.
+
+11. **Shattered Ground** – The world crumbles under your feet.
+
+    * Effect: Your **speed is reduced by 5 ft.** until you complete another long rest.
+
+12. **The Quori’s Whisper** – A nightmare voice claws into your mind.
+
+    * Effect: Take **1d6 psychic damage** upon waking and suffer **disadvantage on the first Wisdom save** the next day.
+
+---
+
+Would you like me to make a **printable d12 Dream Table (VTT-ready PNG + PDF)** so you can drop it in front of the players as a prop?

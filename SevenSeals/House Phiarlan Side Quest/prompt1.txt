@@ -1,0 +1,220 @@
+Prompt: My players want a break from the main quest line. So they're going to investigate a breastplate they found. All the party knows is that they found the breastplate in a roc nest in the demon wastes and it beats the crest of house phiarlan. What they don't know is that the breastplate belonged to the, now dead, captain of the guard for house phiarlan, Captain Dimple. He was sent out with the youngest heir to house phiarlan, Jasper. Jasper was secretly in love with the fiance of captain dimple. They were sent out together on a peace mission to the demon wasted, but Jasper was the only one who returned. He somehow got Dimple and the rest of the party killed just so he could marry the fiance. When the party shows up with the breastplate, Jasper's father is overjoyed to have some closure, but Jasper fears they know too much and will uncover his treachery. Can you help fill in the details if Jasper's treachery, and how he will attempt to kill the party after a feast at the house.
+
+Response: Absolutely—this is a great intrigue arc, very Eberron, and a nice tonal break from cosmic dream horror. I’ll break this into clear pieces you can lift directly into play.
+
+---
+
+## 1. The Truth of Jasper’s Treachery
+
+### The Mission
+
+Captain **Dimple ir’Phiarlan** was a decorated, well-liked captain of the House guard—competent, loyal, and deeply in love with his fiancée, **Seren d’Phiarlan**, a rising social star within the House.
+
+Jasper ir’Phiarlan, the **youngest heir**, was sent along on a “peace and reconnaissance” mission to the Demon Wastes as a political gesture:
+
+* Officially: establish covert contact with a Carrion Tribe splinter faction.
+* Unofficially: teach Jasper responsibility and humility under Dimple’s supervision.
+
+### Jasper’s Motive
+
+Jasper had been secretly obsessed with Seren for years:
+
+* She never reciprocated—she admired Dimple’s steadiness and honor.
+* Jasper convinced himself Dimple was *unworthy* and that Seren was being “wasted” on a soldier.
+* Jasper also believed that returning alone from a deadly mission would cement his status within the House.
+
+In Jasper’s mind, **this was destiny**, not murder.
+
+---
+
+## 2. How Jasper Got Them Killed
+
+Jasper did **not** kill Dimple directly. He engineered circumstances so that:
+
+* Dimple would die “heroically”
+* Jasper would remain blameless
+
+### Step-by-Step Betrayal
+
+1. **False Intelligence**
+   Jasper secretly altered mission reports and maps before departure:
+
+   * He redirected the group toward a Roc nesting range known to be extremely dangerous.
+   * He claimed it was a shortcut to avoid Carrion Tribe scouts.
+
+2. **Sabotaged Defenses**
+   On the second night in the wastes:
+
+   * Jasper tampered with watch rotations.
+   * He loosened pitons securing camp wards.
+   * He quietly disabled an alarm glyph Dimple had placed.
+
+3. **The Roc Attack**
+   When the Roc attacked:
+
+   * Dimple organized a defensive retreat to save the others.
+   * Jasper panicked—*but did not warn Dimple* that the escape route was compromised.
+   * The Roc struck the rear guard first: Dimple and two guards died buying time.
+
+4. **The Final Lie**
+   Jasper fled.
+
+   * He returned alone with a fabricated story of overwhelming forces.
+   * He claimed Dimple ordered him to escape and “carry the truth home.”
+
+The breastplate ended up in the Roc’s nest—stripped from Dimple’s body by scavengers.
+
+---
+
+## 3. Why Jasper’s Father Is Genuinely Grateful
+
+**Lord Alvar ir’Phiarlan**, Jasper’s father:
+
+* Loved Dimple like a son.
+* Was deeply grieved by the loss.
+* Has lived with uncertainty and guilt over the mission.
+
+When the party returns the breastplate:
+
+* Alvar weeps openly.
+* Orders a feast in their honor.
+* Declares the party “Friends of the House.”
+
+This is **not an act**. Jasper’s father truly believes his son.
+
+This makes what Jasper does next much darker.
+
+---
+
+## 4. Jasper’s Fear and Paranoia
+
+When Jasper sees the breastplate:
+
+* He recognizes damage that contradicts his story.
+* He realizes the party has been to the Roc nest.
+* He fears:
+
+  * They spoke to Carrion Tribes
+  * They found survivors
+  * Or worse: divined the truth
+
+Jasper becomes convinced:
+
+> “If they stay, they’ll uncover everything.”
+
+He decides the party **must die quietly**.
+
+---
+
+## 5. The Feast: Jasper’s Murder Attempt
+
+### The Setup
+
+The feast is lavish:
+
+* Illusions, music, shadow dancers (House Phiarlan style)
+* Fine wines and rare delicacies
+* Toasts to bravery and closure
+
+Behind the scenes, Jasper prepares three layered contingencies.
+
+---
+
+### Phase 1: Poison and Isolation
+
+Jasper has arranged for:
+
+* A **dream-laced poison** (DC 15 Con save) slipped into a *private* toast wine
+
+  * On fail: poisoned + drowsy (disadvantage on Perception/Insight)
+  * On success: faint bitter aftertaste (a warning)
+
+The goal is **not to kill them immediately**, but to:
+
+* Weaken them
+* Separate them from the main hall
+
+---
+
+### Phase 2: The Private “Honor Chamber”
+
+Jasper invites the party to see:
+
+* Dimple’s memorial chamber
+* Or an ancestral Phiarlan illusion archive
+
+Once inside:
+
+* Doors seal via shadow magic
+* Illusions of the feast fade into a **shadowed kill-room**
+
+---
+
+### Phase 3: The Assassination
+
+Jasper unleashes:
+
+* **2–3 Phiarlan Shadow Blades** (use *Assassin* or *Veteran* stat blocks with stealth/illusion flavor)
+* **Living illusions** (reskinned *Mirror Image*–like effects or *Shadow* creatures)
+
+Jasper himself:
+
+* Fights only if cornered
+* Uses illusion, misdirection, and cover
+* Tries to escape rather than die
+
+---
+
+## 6. Jasper’s Last Resort (If Things Go Wrong)
+
+If Jasper is exposed or defeated:
+
+* He tries to flee into the House’s shadow passages.
+* If captured, he **breaks** under interrogation:
+
+  * Admits everything
+  * Begs them not to tell his father
+  * Claims he “loved her too much to lose her”
+
+If he escapes:
+
+* He becomes a **recurring antagonist**
+* Possibly working with darker forces
+* Or trying to erase all remaining evidence
+
+---
+
+## 7. Emotional Fallout Hooks
+
+If the truth comes out:
+
+* Seren is shattered—both by Dimple’s death and Jasper’s betrayal.
+* Lord Alvar is broken, but will do the right thing.
+* House Phiarlan may quietly cover it up… or use the party as deniable assets.
+
+If the party keeps the secret:
+
+* Jasper owes them everything—and resents them for it.
+* A dangerous, volatile ally.
+
+---
+
+## 8. Why This Works Well at the Table
+
+* No single “gotcha” reveal—evidence accumulates naturally.
+* Players can:
+
+  * Solve it socially
+  * Expose Jasper publicly
+  * Or leverage the secret
+* It reinforces Eberron’s themes:
+
+  * Moral ambiguity
+  * Power, reputation, and secrets
+  * Tragedy without cosmic stakes
+
+If you want, next we can:
+
+* Design **Captain Dimple’s ghost or echo**
+* Create **Seren d’Phiarlan as an NPC**
+* Or stat Jasper as a recurring illusionist villain

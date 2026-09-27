@@ -1,0 +1,63 @@
+Prompt: describe the runes on each of the pillars that would help give the PCs a sense of what type of check might be required
+
+Response: Here are **concise, descriptive rune themes** for each pillar to naturally hint at the type of skill check needed — without spelling it out. Each description is something the players can immediately visualize and interpret.
+
+---
+
+# ✅ **Pillar 1 — Insight (Mirror of Truth)**
+
+**Rune Theme:** *Shifting Faces & Isolated Eyes*
+
+The surface of this pillar is etched with dozens of eyes in different shapes — some human, some alien. The eyes don’t blink, but they **subtly track whoever approaches**, shifting expressions as if weighing their intentions. Between the eyes are faint outlines of faces split down the middle: one smiling, one weeping, one furious.
+
+**Visual Cue for Players:**
+The pillar is "observing" them. It tests understanding, perception, motives.
+
+---
+
+# ✅ **Pillar 2 — Athletics (Mirror of Force)**
+
+**Rune Theme:** *Bold, Angular Lines & Hammer-Stroke Carvings*
+
+This pillar is covered in **deep, jagged gouges** — as if something powerful clawed or smashed against it. Thick geometric runes repeat like impact marks, and the mirrored surface around the pillar is cracked in a spiderweb pattern. When someone stands close, the air vibrates faintly, like a muscle flexing.
+
+**Visual Cue for Players:**
+This pillar is tough, physical, stubborn — meant to be struck, pushed, broken, or forced open.
+
+---
+
+# ✅ **Pillar 3 — Arcana (Mirror of Logic)**
+
+**Rune Theme:** *Floating Glyphs & Impossible Geometry*
+
+The runes on this pillar don’t stay still. Delicate sigils of light drift just above its mirrored surface, rotating in **intricate, recursive patterns**. Some symbols are upside down, others sideways, others repeating in mirrored symmetry. Lines form shapes that shouldn’t logically exist — Möbius loops and infinite spirals.
+
+**Visual Cue for Players:**
+This is a magic puzzle — metaphysical, rule-based, requiring intellectual or magical insight.
+
+---
+
+# ✅ **Pillar 4 — Persuasion (Mirror of Identity)**
+
+**Rune Theme:** *Split Silhouettes & Interlocking Voices*
+
+The mirror shows faint silhouettes of people standing back-to-back with themselves, their outlines overlapping or shifting subtly. Runes curve like **speech bubbles or whispered breath**, and when anyone approaches, the reflections seem to mouth silent words. Some silhouettes appear half-formed, as if waiting to be defined.
+
+**Visual Cue for Players:**
+This pillar is tied to identity, self-expression, and communication — something that must be spoken to or reasoned with.
+
+---
+
+# ✅ **Quick GM Summary (In 1 Sentence Each)**
+
+* **Insight pillar:** Runes of watching eyes and shifting expressions → “Understand me.”
+* **Athletics pillar:** Deep gouges and impact runes → “Break me.”
+* **Arcana pillar:** Floating glyphs and impossible geometry → “Solve me.”
+* **Persuasion pillar:** Silhouettes mouthing words → “Convince me.”
+
+---
+
+If you want, I can also create:
+✅ A “glitch” table for Arcana failures
+✅ A short riddle or spoken phrase each pillar might whisper
+✅ A VTT map with each pillar visually represented

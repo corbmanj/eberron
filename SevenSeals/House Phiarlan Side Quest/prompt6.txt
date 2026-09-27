@@ -1,0 +1,151 @@
+Prompt: Sorry, you didn't answer my question. I don't want another recount of the feast. I want you to build out the rest of the Phiarlan family members so I have other NPCs
+
+Response: Got it — thanks for the clarification. Below is a **clean NPC roster of Lord Arven Phiarlan’s immediate family**, designed to give you **multiple roleplay vectors at the feast**: allies, skeptics, loose cannons, and accidental truth-leakers. None of this rehashes the feast scene itself; it’s purely **character building** you can deploy however you like.
+
+I’ll assume **House Phiarlan (Shadow)**, political, artistic, and ruthless beneath the silk.
+
+---
+
+# 🜂 House Phiarlan — Lord Arven’s Family
+
+## **Lord Arven Phiarlan**
+
+*Patriarch, master manipulator, public patron of the arts*
+
+* **Public Face:** Gracious, cultured, genuinely moved by the return of Captain Dimple’s armor.
+* **Private Nature:** Values loyalty above truth. If forced to choose, he will protect the House over justice.
+* **Blind Spot:** Loves Jasper deeply and underestimates his capacity for cruelty.
+* **Tell:** When stressed, he fingers a signet ring etched with a theatrical mask.
+
+---
+
+## **Lady Maelis Phiarlan (Wife)**
+
+*Matriarch, social architect, emotional intelligence weaponized*
+
+* **Public Face:** Warm, maternal, effortlessly charming.
+* **Private Nature:** Hyper-observant. She notices *everything* — tone shifts, glances, inconsistencies.
+* **Relationship to Dimple:** Fond of him; trusted him as a stabilizing presence for Jasper.
+* **View of Jasper:** Worries about him but refuses to confront it directly.
+* **Potential Use:** If the party gains her trust, she becomes a **quiet ally**.
+* **Tell:** Pauses half a heartbeat too long before responding when she’s thinking hard.
+
+---
+
+# 👤 The Phiarlan Children
+
+## **Jasper Phiarlan (Youngest Son)**
+
+*Your antagonist; golden boy with rot underneath*
+
+* **Age:** Early 20s
+* **Public Face:** Charming, grieving survivor, newly married to Dimple’s former fiancée.
+* **Private Nature:** Paranoid, narcissistic, deeply afraid of exposure.
+* **Family Dynamic:** Shielded by his father, watched by his mother, resented by siblings.
+* **Tell:** Over-explains details no one asked about.
+
+*(You already have him well developed; the others exist to pressure him.)*
+
+---
+
+## **Elaria Phiarlan (Eldest Daughter)**
+
+*Shadow dancer, intelligence operative*
+
+* **Role:** Senior House agent; specializes in espionage and counterintelligence.
+* **Public Face:** Cool, polite, emotionally distant.
+* **Private Nature:** Sharp, pragmatic, suspicious of everyone.
+* **Relationship to Dimple:** Respected him professionally.
+* **View of Jasper:** Does not trust him. Has quietly investigated his story and found *discrepancies*, but no proof.
+* **Potential Use:**
+
+  * Will subtly test the party with pointed questions.
+  * If convinced, she might **help expose Jasper** or **eliminate him quietly**.
+* **Tell:** Asks questions framed as compliments.
+
+---
+
+## **Tavian Phiarlan (Second Son)**
+
+*Failed artist, resentful blade*
+
+* **Role:** Once trained as a performer-spy; now largely sidelined.
+* **Public Face:** Bitter, sarcastic, drinks too much.
+* **Private Nature:** Hates Jasper’s success and suspects foul play.
+* **Relationship to Dimple:** Dimple once covered for Tavian after a disastrous mission.
+* **What He Knows:** Overheard an argument between Jasper and Dimple *before* the Demon Wastes mission.
+* **Potential Use:**
+
+  * Slips up while drunk.
+  * May confront Jasper publicly if provoked.
+* **Tell:** Laughs at inappropriate moments.
+
+---
+
+## **Seren Phiarlan (Cousin, Fostered In)**
+
+*You’ve already introduced her — this cements her place*
+
+* **Role:** House archivist and ritual assistant.
+* **Public Face:** Soft-spoken, bookish, deferential.
+* **Private Nature:** Moral spine stronger than most Phiarlans.
+* **Relationship to Dimple:** Confidante. He trusted her with fears about Jasper.
+* **What She Knows:**
+
+  * Dimple suspected Jasper would get people killed “by accident.”
+  * Dimple planned to report concerns after the mission.
+* **Danger:** Jasper knows Seren is a liability.
+* **Tell:** Fingers ink-stained gloves when nervous.
+
+---
+
+## **Kaelen Phiarlan (Youngest Daughter, Teen)**
+
+*Unfiltered truth engine*
+
+* **Age:** 14–16
+* **Public Face:** Curious, polite, observant.
+* **Private Nature:** Emotionally perceptive, unintentionally brutal honesty.
+* **Relationship to Dimple:** Idolized him.
+* **What She Knows:**
+
+  * Jasper came home *uninjured* while others died.
+  * Jasper practiced his “grief speech” alone.
+* **Potential Use:**
+
+  * Says something devastating without realizing it.
+* **Tell:** Stares directly at people when confused.
+
+---
+
+# 🎭 Family Dynamics at a Glance
+
+| NPC         | Trusts Jasper | Suspects Jasper | Would Act       |
+| ----------- | ------------- | --------------- | --------------- |
+| Lord Arven  | ✅             | ❌               | Only with proof |
+| Lady Maelis | ⚠️            | ⚠️              | Subtly          |
+| Elaria      | ❌             | ✅               | Yes             |
+| Tavian      | ❌             | ✅               | Recklessly      |
+| Seren       | ❌             | ✅               | Reluctantly     |
+| Kaelen      | ❌             | ❓               | Accidentally    |
+
+---
+
+# 🧨 Why This Works for You as a DM
+
+* Multiple **independent sources of doubt**
+* Players can:
+
+  * Gather **soft evidence** socially
+  * Trigger **emotional outbursts**
+  * Or let Jasper panic and make a mistake
+* Even if Jasper kills the party later, these NPCs ensure:
+
+  * The truth doesn’t die with them
+  * Or Jasper’s victory feels hollow and unstable
+
+If you want, next I can:
+
+* Write **individual tells Jasper gives off to each family member**
+* Design **assassination attempts tailored to each PC**
+* Or help you decide **who survives Jasper’s endgame** depending on player choices
