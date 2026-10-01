@@ -74,7 +74,7 @@ A bright, noisy house full of kids. Marta Albright, a cheerful woman in her fort
 >
 > "Trick or treat!" the bear shouts at you, very loudly.
 >
-> The woman laughs. "That's your line, sweetheart, not theirs. Here you go."
+> The woman laughs. "That's their line, sweetheart, not yours. Here you go."
 
 **What she knows:** Marta was a baby during the fever winter. It took her older brother and sister, Tomas and Wren. Her parents never talked about it much. She knows the old toymaker "did something to the graves" that year, and that the town "dealt with him." She doesn't like her kids going near Ashen Lane.
 
